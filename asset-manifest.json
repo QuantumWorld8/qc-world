@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/qc-world/static/css/main.178f3a9c.chunk.css",
-    "main.js": "/qc-world/static/js/main.beba06b2.chunk.js",
-    "main.js.map": "/qc-world/static/js/main.beba06b2.chunk.js.map",
+    "main.css": "/qc-world/static/css/main.e88e8cd2.chunk.css",
+    "main.js": "/qc-world/static/js/main.9823e054.chunk.js",
+    "main.js.map": "/qc-world/static/js/main.9823e054.chunk.js.map",
     "runtime-main.js": "/qc-world/static/js/runtime-main.b78395be.js",
     "runtime-main.js.map": "/qc-world/static/js/runtime-main.b78395be.js.map",
     "static/js/2.61824049.chunk.js": "/qc-world/static/js/2.61824049.chunk.js",
     "static/js/2.61824049.chunk.js.map": "/qc-world/static/js/2.61824049.chunk.js.map",
     "index.html": "/qc-world/index.html",
-    "static/css/main.178f3a9c.chunk.css.map": "/qc-world/static/css/main.178f3a9c.chunk.css.map",
+    "static/css/main.e88e8cd2.chunk.css.map": "/qc-world/static/css/main.e88e8cd2.chunk.css.map",
     "static/js/2.61824049.chunk.js.LICENSE.txt": "/qc-world/static/js/2.61824049.chunk.js.LICENSE.txt",
     "static/media/circuit-composer.86761df6.png": "/qc-world/static/media/circuit-composer.86761df6.png",
     "static/media/developer.50172522.jpg": "/qc-world/static/media/developer.50172522.jpg",
@@ -17,6 +17,19 @@
     "static/media/interatomic-distance.14a849a9.png": "/qc-world/static/media/interatomic-distance.14a849a9.png",
     "static/media/ion_qubit.c7d8740e.jpeg": "/qc-world/static/media/ion_qubit.c7d8740e.jpeg",
     "static/media/ionq.8b34fe60.jpeg": "/qc-world/static/media/ionq.8b34fe60.jpeg",
+    "static/media/my_journey_part1_2.d2420655.png": "/qc-world/static/media/my_journey_part1_2.d2420655.png",
+    "static/media/my_journey_part1_3.3f91e502.png": "/qc-world/static/media/my_journey_part1_3.3f91e502.png",
+    "static/media/my_journey_part1_4.8b370fac.png": "/qc-world/static/media/my_journey_part1_4.8b370fac.png",
+    "static/media/my_journey_part1_5.226883a0.png": "/qc-world/static/media/my_journey_part1_5.226883a0.png",
+    "static/media/my_journey_part1_6.464aabad.png": "/qc-world/static/media/my_journey_part1_6.464aabad.png",
+    "static/media/my_journey_part1_7.20f1e7f6.png": "/qc-world/static/media/my_journey_part1_7.20f1e7f6.png",
+    "static/media/my_journey_part1_8.338ab173.png": "/qc-world/static/media/my_journey_part1_8.338ab173.png",
+    "static/media/my_journey_part1_9.3cec4cb7.png": "/qc-world/static/media/my_journey_part1_9.3cec4cb7.png",
+    "static/media/my_journey_part2_1.4bb7adc2.png": "/qc-world/static/media/my_journey_part2_1.4bb7adc2.png",
+    "static/media/my_journey_part2_2.682d027d.png": "/qc-world/static/media/my_journey_part2_2.682d027d.png",
+    "static/media/my_journey_part2_3.3ca80606.png": "/qc-world/static/media/my_journey_part2_3.3ca80606.png",
+    "static/media/my_journey_part2_4.fde1c54f.png": "/qc-world/static/media/my_journey_part2_4.fde1c54f.png",
+    "static/media/my_journey_part2_8.0520cfd4.png": "/qc-world/static/media/my_journey_part2_8.0520cfd4.png",
     "static/media/quantum-computer.f7fe321a.jpeg": "/qc-world/static/media/quantum-computer.f7fe321a.jpeg",
     "static/media/rigetti-chip.d83b437b.png": "/qc-world/static/media/rigetti-chip.d83b437b.png",
     "static/media/summerschool.2a832a4f.png": "/qc-world/static/media/summerschool.2a832a4f.png",
@@ -27,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.b78395be.js",
     "static/js/2.61824049.chunk.js",
-    "static/css/main.178f3a9c.chunk.css",
-    "static/js/main.beba06b2.chunk.js"
+    "static/css/main.e88e8cd2.chunk.css",
+    "static/js/main.9823e054.chunk.js"
   ]
 }
